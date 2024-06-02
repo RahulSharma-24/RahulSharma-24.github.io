@@ -22,8 +22,9 @@ const illustration = {
 const greeting = {
   username: "Rahul Sharma",
   title: "Hi all, I'm Rahul Sharma",
-  //subTitle: emoji("Highly motivated AI Engineer with a master's degree in Robotics and Autonomous Systems from IISc, Bangalore. Experienced in AI-based surveillance, computer vision, and control systems from working at DRDO. Proficient in deep learning, edge computing, and data science with a proven track record in developing innovative AI solutions"
-  subTitle: emoji("Highly motivated AI Engineer with a master's in Robotics from IISc, Bangalore, experienced in AI-based surveillance and control systems at DRDO, and proficient in deep learning and data science"),
+  subTitle: emoji(
+    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+  ),
   resumeLink:
     "resume.pdf", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
